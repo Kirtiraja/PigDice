@@ -11,4 +11,4 @@
 |If player "holds" then sum of players turn added to score | 2,3 | 5 added to score (sum of previous turns)|
 |If player "holds" then other players turn in addition to previous specification |2,3| 5 + score + other player turn|
 |Player to reach 100 or more first wins | 100| "You win!" |
-|  |  |  |
+
